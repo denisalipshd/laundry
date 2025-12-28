@@ -11,7 +11,7 @@ const Footer = () => {
           <h4 className="text-white font-semibold mb-4">Menu</h4>
           <ul className="space-y-2 text-sm">
             <li>
-              <a href="#home" className="hover:text-white transition">
+              <a href="#beranda" className="hover:text-white transition">
                 Beranda
               </a>
             </li>

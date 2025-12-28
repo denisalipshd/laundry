@@ -5,8 +5,7 @@ const Hero = () => {
         <div>
           <h2 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
             Laundry Bersih & Rapi
-            <br className="hidden md:block" />
-            Tanpa Repot
+            <br className="hidden md:block" /> Tanpa Repot
           </h2>
 
           <p className="text-gray-600 mb-8">Solusi laundry modern dengan layanan antar jemput, proses cepat, dan standar kebersihan profesional untuk kenyamanan Anda.</p>
